@@ -2,8 +2,6 @@ import os
 import time
 os.system('git pull')
 
-print("")
-print("\033[1;32m     Welcome To My Ok Tool");time.sleep(2.0)
 
 import os, platform, time
 
@@ -17,7 +15,6 @@ if b == '64bit':
 
     print("")
     
-    print("\033[1;32m     Welcome To My Ok Tool");time.sleep(2.0)
     
     from axi import Subscription
     
